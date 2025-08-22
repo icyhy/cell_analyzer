@@ -1,6 +1,12 @@
 Flask==2.0.3
+Flask-CORS==4.0.0
 python-dotenv==0.21.0
 numpy==1.24.2
 cellpose==2.2.2
 Werkzeug==2.0.3
 Pillow==9.5.0
+# YOLOv dependencies
+ultralytics==8.0.196
+opencv-python==4.8.1.78
+torch>=1.13.0
+torchvision>=0.14.0
